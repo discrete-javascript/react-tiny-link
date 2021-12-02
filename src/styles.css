@@ -1,0 +1,8 @@
+#root {
+  margin: 0 auto;
+  width: calc(100vw / 2);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
